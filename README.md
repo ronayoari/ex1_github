@@ -1,6 +1,6 @@
 # Salted Caramel Apple Poke Cake
 
-**Ingredients**
+## Ingredients
 
 1. 1 box Betty Crocker™ SuperMoist™ white cake mix
 2. 1 1/4 cups water
@@ -13,7 +13,7 @@
 9. 1/3 cup butterscotch chips
 
 
-**Directions**
+## Directions
 
 - Heat oven to 350° F (325° F for dark or nonstick pan). Grease or lightly spray bottom only of 13 x 9-inch pan.
 
@@ -24,5 +24,7 @@
 - Meanwhile, in small bowl, mix 1/4 cup of the caramel sauce and the sea salt. Poke warm cake every inch with a straw or handle of wooden spoon, halfway into cake. Pour caramel-salt mixture over cake, allowing it to fill in holes.
 
 - Spread cake with whipped topping. Drizzle with remaining 1/4 cup caramel sauce; top with butterscotch chips.
+
+[salted caramel apple poke cake website](http://www.bettycrocker.com/recipes/salted-caramel-apple-poke-cake/4a7bb7ce-bedf-4dfd-ad9a-63662d9bfc71)
 
 ![Apple Poke Picture](http://www.frugalcouponliving.com/wp-content/uploads/2015/08/Caramel-Apple-Poke-Cake-frugal-coupon-living-tall-800.jpg)
