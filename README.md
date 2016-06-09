@@ -31,4 +31,4 @@
 
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
-![alt tag](https://raw.githubusercontent.com/ronayoari/ex1_github/solarized/master/img.png)
+![alt tag](https://raw.githubusercontent.com/ronayoari/ex1_github/master/Island.jpg)
