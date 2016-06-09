@@ -29,6 +29,4 @@
 
 ![Apple Poke Picture](http://www.frugalcouponliving.com/wp-content/uploads/2015/08/Caramel-Apple-Poke-Cake-frugal-coupon-living-tall-800.jpg)
 
-
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
-![alt tag](https://raw.githubusercontent.com/ronayoari/ex1_github/master/Island.jpg)
+![alt tag](https://github.com/ronayoari/ex1_github/blob/master/png-file-format-symbol.png)
