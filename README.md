@@ -28,3 +28,7 @@
 [salted caramel apple poke cake website](http://www.bettycrocker.com/recipes/salted-caramel-apple-poke-cake/4a7bb7ce-bedf-4dfd-ad9a-63662d9bfc71)
 
 ![Apple Poke Picture](http://www.frugalcouponliving.com/wp-content/uploads/2015/08/Caramel-Apple-Poke-Cake-frugal-coupon-living-tall-800.jpg)
+
+
+[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
+![alt tag](https://raw.githubusercontent.com/ronayoari/ex1_github/solarized/master/img.png)
